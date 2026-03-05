@@ -1,8 +1,8 @@
 package matrices;
 
-public class Principal {
+public class MenuMatrices {
 
-	public Principal() {
+	public MenuMatrices() {
 		// TODO Auto-generated constructor stub
 	}
 
